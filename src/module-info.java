@@ -1,0 +1,3 @@
+module javatrain {
+	exports javatrain;
+}
