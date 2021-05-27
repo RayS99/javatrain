@@ -1,5 +1,5 @@
 package javatrain;
-
+/*
 public class Iteration {
 	
 	public static void transferOfControl() {
@@ -47,3 +47,4 @@ public class Iteration {
     }
 
 }
+*/

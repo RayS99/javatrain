@@ -31,12 +31,13 @@ public class Flowchart {
                 }
             } else {
                 System.out.println("2");
-                // THE END            }
+                // THE END          }
         }
     }
 
+}
+        }
 	}
-
 }
         
         

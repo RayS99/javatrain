@@ -30,20 +30,3 @@ You can call a base types constructor with the super() constructYou can call a c
     
 }
  */
-
-public class PersonR {
-	public Person() {
-        this("Unknown");
-    }
-    
-    public Person(String name) {
-        this.name = name;
-    }
-    public String getName() {
-        return name;
-    }
-    public void setName(String name) {
-        this.name = name;
-    }
-
-}
