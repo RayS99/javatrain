@@ -13,6 +13,9 @@ Edit the division method in the Calculator class, the sum should only execute if
 		return num1 * num2;
 	}
 	public static double div(double num1, double num2) {
+		if(num1 == 0 || num2 == 0) {
+			System.out.println("NO DIVIDING BY 0!");
+		}
 	 return num1 / num2;
 	}
 
